@@ -3,10 +3,7 @@ Hello, I'm Anubha Sharma, currently a second-year BTech student at Dr. A.P.J Abd
 As a Flutter developer and a dedicated ML enthusiast, I am passionate about creating innovative solutions and exploring the intersections of mobile development and machine learning. Proficient in the C++ language, I am always eager to learn and expand my skill set to stay ahead in the dynamic world of software development.
 
 # Cerificates :
-![microsoft-certified-azure-ai-fundamentals](https://github.com/AnubhaSharma2709/AnubhaSharma2709/assets/99638617/8e93e8df-5929-4101-b56e-aebf953afd53)
-
-![mta-introduction-to-programming-using-python-certified-2021](https://github.com/AnubhaSharma2709/AnubhaSharma2709/assets/99638617/e73563ba-06e0-4ef9-be03-15bee41daac9)
-
+![mta-introduction-to-programming-using-python-certified-2021](https://github.com/AnubhaSharma2709/AnubhaSharma2709/assets/99638617/e73563ba-06e0-4ef9-be03-15bee41daac9)![microsoft-certified-azure-ai-fundamentals (1)](https://github.com/AnubhaSharma2709/AnubhaSharma2709/assets/99638617/1e82470c-2378-4413-8c62-9de6a80bdd09)
 
 
 ## 🌐 Socials:
