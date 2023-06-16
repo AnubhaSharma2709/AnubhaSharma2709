@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am Anubha Sharma, an App Developer at the Computer Society of India. <br>My expertise lies in developing applications using Flutter and Firebase.<br>I am highly passionate about Machine Learning<br>I also have experience working with Figma to create interactive prototypes.
+Hello, I'm Anubha Sharma, currently a second-year BTech student at Dr. A.P.J Abdul Kalam Technical University, majoring in Computer Science Engineering with a specialization in Data Science.
+As a Flutter developer and a dedicated ML enthusiast, I am passionate about creating innovative solutions and exploring the intersections of mobile development and machine learning. Proficient in the C++ language, I am always eager to learn and expand my skill set to stay ahead in the dynamic world of software development.
+
+# Cerificates :
+![microsoft-certified-azure-ai-fundamentals](https://github.com/AnubhaSharma2709/AnubhaSharma2709/assets/99638617/8e93e8df-5929-4101-b56e-aebf953afd53)
+
+![mta-introduction-to-programming-using-python-certified-2021](https://github.com/AnubhaSharma2709/AnubhaSharma2709/assets/99638617/e73563ba-06e0-4ef9-be03-15bee41daac9)
+
 
 
 ## 🌐 Socials:
