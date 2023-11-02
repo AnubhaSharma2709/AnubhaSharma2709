@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Anubha Sharma, currently a 3rd Year BTech student at Dr. A.P.J Abdul Kalam Technical University, majoring in Computer Science Engineering with a specialization in Data Science.
+Hello, I'm Anubha Sharma, currently a 3rd Year BTech Student at Dr. A.P.J Abdul Kalam Technical University, majoring in Computer Science Engineering with a specialization in Data Science.
 As a Flutter developer and a dedicated ML enthusiast, I am passionate about creating innovative solutions and exploring the intersections of mobile development and machine learning. Proficient in the C++ language, I am always eager to learn and expand my skill set to stay ahead in the dynamic world of software development.
 
 ## Badges :
